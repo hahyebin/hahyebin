@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
--📫 **hahyebin's email ...**[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hahyebin96@naver.com)](mailto:hahyebin96@naver.com)
+- 📫  **hahyebin's email ...**[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hahyebin96@naver.com)](mailto:hahyebin96@naver.com)
 
 - 📒  **hahyebin's blog ...** [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://haheaven.tistory.com/)](https://haheaven.tistory.com/)
 
