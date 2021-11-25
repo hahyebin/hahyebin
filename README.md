@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hahyebin96@naver.com)](mailto:hahyebin96@naver.com)
+- 🌱  **hahyebin's skill ...**[![Java Badge](https://img.shields.io/badge/-java-orange]
 
-- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://hahyebin.tistory.com/)](https://fomaios.tistory.com/)
+- 📮  **hahyebin's email ...**[![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hahyebin96@naver.com)](mailto:hahyebin96@naver.com)
 
-- 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/)     
+- 📒  **hahyebin's blog ...** [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://hahyebin.tistory.com/)](https://fomaios.tistory.com/)
+
+- 📺  **hahyebin's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/)     
